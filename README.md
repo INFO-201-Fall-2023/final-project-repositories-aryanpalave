@@ -8,20 +8,20 @@ Overall, our project and research will focus on two datasets to explore the rela
 ### Where did you download the data?
 We downloaded our data from following URLs:
 [Where it Pays to Attend College] (https://www.kaggle.com/datasets/wsj/college-salaries) - salaries-by-region.csv
-College tuition, diversity, and pay | Kaggle- tuition_cost.csv
+[College tuition, diversity, and pay] (https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay) | Kaggle- tuition_cost.csv
 
 ### How was the data collected or generated?
 For the dataset of Where it Pays to Attend College, it was obtained from the Wall Street Journal based on data from Payscale, Inc:
-Salaries for Colleges by Region
+[Salaries for Colleges by Region] (http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Region-sort.html)
 The data is about the salaries for graduates based on different types of colleges, college majors, and college locations in different regions. And the salaries-by-region.csv we selected is about the different regions of colleges and their income of the graduation students. 
 
 For the dataset of College tuition, diversity, and pay, the data comes from many different sources but originally came from the US Department of Education. 
-Tuition and fees by college/university for 2018-2019, along with school type, degree length, state, in-state vs out-of-state from the Chronicle of Higher Education.
-Diversity by college/university for 2014, along with school type, degree length, state, in-state vs out-of-state from the Chronicle of Higher Education.
-Example diversity graphics from Priceonomics.
-Average net cost by income bracket from TuitionTracker.org.
-Example price trend and graduation rates from TuitionTracker.org
-The data was downloaded and cleaned by Thomas Mock for #TidyTuesday during the week of March 10th, 2020. It is provided in the TidyTuesday repository and is licensed under the MIT License. The data is about the costs of college tuition in the US, by geographic location/area, college degree type, and the potential salary. And the tuition_cost.csv we selected contains multiple colleges information and their tuition cost for different groups of individuals.
+Tuition and fees by college/university for 2018-2019, along with school type, degree length, state, in-state vs out-of-state from the [Chronicle of Higher Education] (https://www.chronicle.com/interactives/tuition-and-fees).
+Diversity by college/university for 2014, along with school type, degree length, state, in-state vs out-of-state from the [Chronicle of Higher Education] (https://www.chronicle.com/interactives/student-diversity-2016).
+Example diversity graphics from [Priceonomics] (https://priceonomics.com/ranking-the-most-and-least-diverse-colleges-in/).
+Average net cost by income bracket from [TuitionTracker.org] (https://www.tuitiontracker.org/).
+Example price trend and graduation rates from [TuitionTracker.org] (https://www.tuitiontracker.org/school.html?unitid=228778)
+The data was downloaded and cleaned by Thomas Mock for #TidyTuesday during the week of March 10th, 2020. It is provided in the TidyTuesday repository and is licensed under the [MIT License] (https://github.com/rfordatascience/tidytuesday/blob/master/LICENSE). The data is about the costs of college tuition in the US, by geographic location/area, college degree type, and the potential salary. And the tuition_cost.csv we selected contains multiple colleges information and their tuition cost for different groups of individuals.
 
 ### How many observations (rows) are in your data?
 For salaries-by-region.csv from Where it Pays to Attend College, it has 320 unique values(rows).
