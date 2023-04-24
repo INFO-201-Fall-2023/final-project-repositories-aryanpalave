@@ -7,7 +7,7 @@ Overall, our project and research will focus on two datasets to explore the rela
 ## Finding Data
 ### Where did you download the data?
 We downloaded our data from following URLs:
-Where it Pays to Attend College - salaries-by-region.csv
+[Where it Pays to Attend College] (https://www.kaggle.com/datasets/wsj/college-salaries) - salaries-by-region.csv
 College tuition, diversity, and pay | Kaggle- tuition_cost.csv
 
 ### How was the data collected or generated?
