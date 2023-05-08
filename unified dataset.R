@@ -1,5 +1,7 @@
 library(dplyr)
 library(stringr)
+library(ggplot2)
+
 tuition_cost <- read.csv("tuition_cost.csv")
 salaries_by_region <- read.csv("salaries-by-region.csv")
 
@@ -69,6 +71,12 @@ avg_outstate_ratio = mean(outstate_ratio), avg_instate_ratio = mean(instate_rati
 true_outstate_count = sum(outstate_return == 1), false_outstate_count = sum(outstate_return == 0),
 true_instate_count = sum(instate_return == 1), false_instate_count = sum(instate_return == 0),
 avg_in_state_tuition = mean(in_state_tuition), avg_out_of_state_tuition = mean(out_of_state_tuition))
+
+
+
+sum(is.na(tuition_cost))
+sum(is.na(salaries_by_region))
+
 
 write.csv(df, "C:\\Users\\arypa\\Downloads\\df_050723.csv", row.names=FALSE)
 
