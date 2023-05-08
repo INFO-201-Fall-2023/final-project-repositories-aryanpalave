@@ -1,0 +1,163 @@
+"name","state","state_code","type","degree_length","room_and_board","in_state_tuition","in_state_total","out_of_state_tuition","out_of_state_total","Region","Starting.Median.Salary","Mid.Career.Median.Salary","Mid.Career.10th.Percentile.Salary","Mid.Career.25th.Percentile.Salary","Mid.Career.75th.Percentile.Salary","Mid.Career.90th.Percentile.Salary","outstate_ratio","instate_ratio","outstate_return","instate_return"
+"adelphi university","New York","NY","Private","4 Year",16030,38660,54690,38660,54690,"Northeastern",40600,79200,44200,54800,114000,160000,1.448,1.448,FALSE,FALSE
+"amherst college","Massachusetts","MA","Private","4 Year",14740,56426,71166,56426,71166,"Northeastern",54500,107000,NA,84900,162000,NA,1.504,1.504,FALSE,FALSE
+"appalachian state university","North Carolina","NC","Public","4 Year",8304,7214,15518,22021,30325,"Southern",40400,69100,37200,50400,90800,115000,2.279,4.453,TRUE,TRUE
+"auburn university","Alabama","AL","Public","4 Year",13332,11276,24608,30524,43856,"Southern",45400,84700,45400,62700,109000,145000,1.931,3.442,TRUE,TRUE
+"austin peay state university","Tennessee","TN","Public","4 Year",10700,8411,19111,24467,35167,"Southern",37700,59200,32200,40500,73900,96200,1.683,3.098,FALSE,TRUE
+"bates college","Maine","ME","Private","4 Year",15224,53794,69018,53794,69018,"Northeastern",47300,96500,NA,60700,162000,NA,1.398,1.398,FALSE,FALSE
+"baylor university","Texas","TX","Private","4 Year",12595,45727,58322,45727,58322,"Southern",48300,88600,46300,60700,130000,2e+05,1.519,1.519,FALSE,FALSE
+"black hills state university","South Dakota","SD","Public","4 Year",6978,8733,15711,11778,18756,"Midwestern",35300,43900,NA,32200,60900,NA,2.341,2.794,TRUE,TRUE
+"boston college","Massachusetts","MA","Private","4 Year",14478,55464,69942,55464,69942,"Northeastern",52700,103000,48900,70000,143000,195000,1.473,1.473,FALSE,FALSE
+"boston university","Massachusetts","MA","Private","4 Year",15720,53948,69668,53948,69668,"Northeastern",49000,93900,48000,64900,130000,193000,1.348,1.348,FALSE,FALSE
+"bowdoin college","Maine","ME","Private","4 Year",14698,53922,68620,53922,68620,"Northeastern",48100,107000,NA,74600,146000,NA,1.559,1.559,FALSE,FALSE
+"bowling green state university","Ohio","OH","Public","4 Year",9168,11105,20273,19093,28261,"Midwestern",39800,72100,38200,51800,101000,146000,2.551,3.556,TRUE,TRUE
+"bradley university","Illinois","IL","Private","4 Year",10620,33760,44380,33760,44380,"Midwestern",47000,87300,45900,64900,113000,151000,1.967,1.967,TRUE,FALSE
+"brown university","Rhode Island","RI","Private","4 Year",14670,55656,70326,55656,70326,"Northeastern",56200,109000,55400,74400,159000,228000,1.55,1.55,FALSE,FALSE
+"bucknell university","Pennsylvania","PA","Private","4 Year",13662,56092,69754,56092,69754,"Northeastern",54100,110000,62800,80600,156000,251000,1.577,1.577,FALSE,FALSE
+"carleton college","Minnesota","MN","Private","4 Year",14085,54759,68844,54759,68844,"Midwestern",47500,103000,NA,69400,141000,NA,1.496,1.496,FALSE,FALSE
+"case western reserve university","Ohio","OH","Private","4 Year",15190,49042,64232,49042,64232,"Midwestern",56200,96500,54900,76500,123000,168000,1.502,1.502,FALSE,FALSE
+"clemson university","South Carolina","SC","Public","4 Year",10832,14970,25802,36724,47556,"Southern",48400,86000,50500,61800,111000,150000,1.808,3.333,TRUE,TRUE
+"cleveland state university","Ohio","OH","Public","4 Year",13560,10625,24185,14992,28552,"Midwestern",43500,73100,39500,51600,97000,137000,2.56,3.023,TRUE,TRUE
+"colby college","Maine","ME","Private","4 Year",14190,55210,69400,55210,69400,"Northeastern",46400,85800,NA,63500,129000,NA,1.236,1.236,FALSE,FALSE
+"colgate university","New York","NY","Private","4 Year",13995,55870,69865,55870,69865,"Northeastern",52800,108000,60000,76700,167000,265000,1.546,1.546,FALSE,FALSE
+"college of the holy cross","Massachusetts","MA","Private","4 Year",14520,52770,67290,52770,67290,"Northeastern",50200,106000,NA,65600,143000,NA,1.575,1.575,FALSE,FALSE
+"colorado school of mines","Colorado","CO","Public","4 Year",13169,18964,32133,38584,51753,"Western",58100,106000,62200,87900,142000,201000,2.048,3.299,TRUE,TRUE
+"columbia university","New York","NY","Private","4 Year",14016,59985,74001,59985,74001,"Northeastern",59400,107000,50300,71900,161000,241000,1.446,1.446,FALSE,FALSE
+"cornell university","New York","NY","Private","4 Year",14816,55188,70004,55188,70004,"Northeastern",60300,110000,56800,79800,160000,210000,1.571,1.571,FALSE,FALSE
+"dallas baptist university","Texas","TX","Private","4 Year",7992,28870,36862,28870,36862,"Southern",39400,60200,38500,50300,81800,98100,1.633,1.633,FALSE,FALSE
+"dartmouth college","New Hampshire","NH","Private","4 Year",15756,55453,71209,55453,71209,"Northeastern",58000,134000,63100,90200,234000,321000,1.882,1.882,TRUE,FALSE
+"davenport university","Michigan","MI","Private","4 Year",9928,22800,32728,22800,32728,"Midwestern",39700,46600,31600,38100,65600,85700,1.424,1.424,FALSE,FALSE
+"davidson college","North Carolina","NC","Private","4 Year",14372,51447,65819,51447,65819,"Southern",46100,104000,NA,70500,146000,NA,1.58,1.58,FALSE,FALSE
+"denison university","Ohio","OH","Private","4 Year",12710,51960,64670,51960,64670,"Midwestern",42000,83500,NA,62100,122000,NA,1.291,1.291,FALSE,FALSE
+"depaul university","Illinois","IL","Private","4 Year",14235,39975,54210,39975,54210,"Midwestern",46400,84800,50300,63900,115000,160000,1.564,1.564,FALSE,FALSE
+"depauw university","Indiana","IN","Private","4 Year",13020,49704,62724,49704,62724,"Midwestern",41400,88200,49500,57400,133000,185000,1.406,1.406,FALSE,FALSE
+"drexel university","Pennsylvania","PA","Private","4 Year",14079,53279,67358,53279,67358,"Northeastern",53400,93500,54900,72500,122000,161000,1.388,1.388,FALSE,FALSE
+"duke university","North Carolina","NC","Private","4 Year",15178,55695,70873,55695,70873,"Southern",58900,106000,56000,77400,149000,218000,1.496,1.496,FALSE,FALSE
+"duquesne university","Pennsylvania","PA","Private","4 Year",12586,38178,50764,38178,50764,"Northeastern",40700,84400,42600,59500,107000,131000,1.663,1.663,FALSE,FALSE
+"eastern michigan university","Michigan","MI","Public","4 Year",9854,13959,23813,13959,23813,"Midwestern",40300,72100,37900,52800,95400,135000,3.028,3.028,TRUE,TRUE
+"eastern washington university","Washington","WA","Public","4 Year",12793,7323,20116,24444,37237,"Western",38600,70900,36000,50500,93100,117000,1.904,3.525,TRUE,TRUE
+"emory university","Georgia","GA","Private","4 Year",14456,51306,65762,51306,65762,"Southern",52000,91600,52500,63300,128000,192000,1.393,1.393,FALSE,FALSE
+"evergreen state college","Washington","WA","Public","4 Year",11346,7949,19295,26459,37805,"Western",39500,63900,38800,47200,91600,120000,1.69,3.312,FALSE,TRUE
+"fashion institute of technology","New York","NY","Public","4 Year",14480,5740,20220,15520,30000,"Northeastern",42800,81000,38800,60500,106000,138000,2.7,4.006,TRUE,TRUE
+"fordham university","New York","NY","Private","4 Year",17969,52687,70656,52687,70656,"Northeastern",47800,99900,48600,65900,142000,198000,1.414,1.414,FALSE,FALSE
+"fort lewis college","Colorado","CO","Public","4 Year",9878,9040,18918,19696,29574,"Western",42000,69800,NA,55000,94000,NA,2.36,3.69,TRUE,TRUE
+"george mason university","Virginia","VA","Public","4 Year",11460,12462,23922,35922,47382,"Southern",47800,86900,51300,67200,114000,150000,1.834,3.633,TRUE,TRUE
+"georgetown university",NA,"DC","Private","4 Year",16509,54104,70613,54104,70613,"Southern",55000,110000,60300,85800,174000,248000,1.558,1.558,FALSE,FALSE
+"georgia institute of technology","Georgia","GA","Public","4 Year",11884,12424,24308,33020,44904,"Southern",58300,106000,67200,85200,137000,183000,2.361,4.361,TRUE,TRUE
+"georgia state university","Georgia","GA","Public","4 Year",11378,10858,22236,29432,40810,"Southern",41800,74000,43000,55300,99900,145000,1.813,3.328,TRUE,TRUE
+"gettysburg college","Pennsylvania","PA","Private","4 Year",13010,54480,67490,54480,67490,"Northeastern",44700,85800,NA,66300,132000,NA,1.271,1.271,FALSE,FALSE
+"gonzaga university","Washington","WA","Private","4 Year",11944,43210,55154,43210,55154,"Western",44900,76000,47000,57400,103000,138000,1.378,1.378,FALSE,FALSE
+"grinnell college","Iowa","IA","Private","4 Year",12810,52392,65202,52392,65202,"Midwestern",42600,76600,NA,65100,116000,NA,1.175,1.175,FALSE,FALSE
+"gustavus adolphus college","Minnesota","MN","Private","4 Year",9910,45400,55310,45400,55310,"Midwestern",44500,80600,NA,49300,101000,NA,1.457,1.457,FALSE,FALSE
+"hamilton college","New York","NY","Private","4 Year",13870,54620,68490,54620,68490,"Northeastern",49200,83700,NA,51900,123000,NA,1.222,1.222,FALSE,FALSE
+"harvey mudd college","California","CA","Private","4 Year",18127,56876,75003,56876,75003,"California",71800,122000,NA,96000,180000,NA,1.627,1.627,FALSE,FALSE
+"hofstra university","New York","NY","Private","4 Year",15948,46760,62708,46760,62708,"Northeastern",46800,92700,48900,67000,135000,189000,1.478,1.478,FALSE,FALSE
+"howard university",NA,"DC","Private","4 Year",13895,27056,40951,27056,40951,"Southern",46900,81800,43300,60000,109000,138000,1.998,1.998,TRUE,FALSE
+"humboldt state university","California","CA","Public","4 Year",12870,7676,20546,19556,32426,"California",42600,71300,36000,56300,94400,117000,2.199,3.47,TRUE,TRUE
+"idaho state university","Idaho","ID","Public","4 Year",7207,7420,14627,22940,30147,"Western",44900,73400,35400,49600,101000,143000,2.435,5.018,TRUE,TRUE
+"illinois state university","Illinois","IL","Public","4 Year",9850,14516,24366,26040,35890,"Midwestern",42000,73400,39100,55200,105000,142000,2.045,3.012,TRUE,TRUE
+"iowa state university","Iowa","IA","Public","4 Year",8720,8988,17708,23392,32112,"Midwestern",45400,84600,44400,60000,109000,147000,2.635,4.778,TRUE,TRUE
+"ithaca college","New York","NY","Private","4 Year",15562,43978,59540,43978,59540,"Northeastern",42700,87400,50200,62400,128000,174000,1.468,1.468,FALSE,FALSE
+"jacksonville university","Florida","FL","Private","4 Year",14080,36670,50750,36670,50750,"Southern",46700,66200,36700,47200,88500,121000,1.304,1.304,FALSE,FALSE
+"juniata college","Pennsylvania","PA","Private","4 Year",12521,45597,58118,45597,58118,"Northeastern",41800,78900,NA,67200,110000,NA,1.358,1.358,FALSE,FALSE
+"kent state university","Ohio","OH","Public","4 Year",11362,10012,21374,18714,30076,"Midwestern",38700,62600,36100,45800,87000,124000,2.081,2.929,TRUE,TRUE
+"lafayette college","Pennsylvania","PA","Private","4 Year",15640,52880,68520,52880,68520,"Northeastern",53900,107000,70600,79300,144000,204000,1.562,1.562,FALSE,FALSE
+"lamar university","Texas","TX","Public","4 Year",8920,10192,19112,22642,31562,"Southern",46500,79400,38700,51600,114000,158000,2.516,4.154,TRUE,TRUE
+"lehigh university","Pennsylvania","PA","Private","4 Year",13600,52930,66530,52930,66530,"Northeastern",59200,105000,69500,85000,160000,229000,1.578,1.578,FALSE,FALSE
+"letourneau university","Texas","TX","Private","4 Year",9970,30210,40180,30210,40180,"Southern",49500,73800,41200,52700,95200,126000,1.837,1.837,TRUE,FALSE
+"lewis & clark college","Oregon","OR","Private","4 Year",12490,50934,63424,50934,63424,"Western",38900,72600,38200,53400,104000,140000,1.145,1.145,FALSE,FALSE
+"marquette university","Wisconsin","WI","Private","4 Year",12720,41870,54590,41870,54590,"Midwestern",48500,88400,49500,67400,121000,184000,1.619,1.619,FALSE,FALSE
+"mercy college","New York","NY","Private","4 Year",14400,19042,33442,19042,33442,"Northeastern",43700,62600,35600,47300,99000,134000,1.872,1.872,TRUE,FALSE
+"middlebury college","Vermont","VT","Private","4 Year",15530,54450,69980,54450,69980,"Northeastern",47700,94200,NA,69100,129000,NA,1.346,1.346,FALSE,FALSE
+"mississippi college","Mississippi","MS","Private","4 Year",10300,18026,28326,18026,28326,"Southern",35400,60400,NA,43900,80400,NA,2.132,2.132,TRUE,FALSE
+"moravian college","Pennsylvania","PA","Private","4 Year",13378,43636,57014,43636,57014,"Northeastern",42500,74400,NA,56700,94900,NA,1.305,1.305,FALSE,FALSE
+"morehead state university","Kentucky","KY","Public","4 Year",9960,9170,19130,13646,23606,"Southern",34800,60600,34300,46500,72000,91300,2.567,3.168,TRUE,TRUE
+"mount holyoke college","Massachusetts","MA","Private","4 Year",14660,49998,64658,49998,64658,"Northeastern",42400,94200,NA,57100,131000,NA,1.457,1.457,FALSE,FALSE
+"new mexico state university","New Mexico","NM","Public","4 Year",9252,7368,16620,23508,32760,"Western",44300,79500,37400,53800,102000,131000,2.427,4.783,TRUE,TRUE
+"niagara university","New York","NY","Private","4 Year",13200,33180,46380,33180,46380,"Northeastern",36900,69700,44000,57000,92000,128000,1.503,1.503,FALSE,FALSE
+"northeastern university","Massachusetts","MA","Private","4 Year",16880,51387,68267,51387,68267,"Northeastern",50500,86400,47100,62700,117000,159000,1.266,1.266,FALSE,FALSE
+"northwestern university","Illinois","IL","Private","4 Year",16626,54567,71193,54567,71193,"Midwestern",52700,95900,51900,69100,144000,205000,1.347,1.347,FALSE,FALSE
+"oberlin college","Ohio","OH","Private","4 Year",16338,55054,71392,55054,71392,"Midwestern",43400,81600,NA,46400,128000,NA,1.143,1.143,FALSE,FALSE
+"occidental college","California","CA","Private","4 Year",15496,54686,70182,54686,70182,"California",51900,105000,NA,54800,157000,NA,1.496,1.496,FALSE,FALSE
+"ohio university","Ohio","OH","Public","4 Year",11830,12192,24022,21656,33486,"Midwestern",42200,73400,36600,52800,106000,150000,2.192,3.056,TRUE,TRUE
+"oklahoma city university","Oklahoma","OK","Private","4 Year",8896,31026,39922,31026,39922,"Southern",40000,64300,NA,45400,80600,NA,1.611,1.611,FALSE,FALSE
+"oklahoma state university","Oklahoma","OK","Public","4 Year",8549,9019,17568,24539,33088,"Southern",42800,80700,40100,56500,114000,151000,2.439,4.594,TRUE,TRUE
+"pace university","New York","NY","Private","4 Year",19200,45280,64480,45280,64480,"Northeastern",53200,89700,44200,65400,129000,187000,1.391,1.391,FALSE,FALSE
+"park university","Missouri","MO","Private","4 Year",8200,12650,20850,12650,20850,"Midwestern",44300,64300,37200,45600,86400,113000,3.084,3.084,TRUE,TRUE
+"pittsburg state university","Kansas","KS","Public","4 Year",7778,7298,15076,18642,26420,"Midwestern",40400,58200,25600,46000,84600,117000,2.203,3.86,TRUE,TRUE
+"pomona college","California","CA","Private","4 Year",16716,52780,69496,52780,69496,"California",48600,101000,NA,63300,161000,NA,1.453,1.453,FALSE,FALSE
+"pratt institute","New York","NY","Private","4 Year",12622,51870,64492,51870,64492,"Northeastern",43800,89900,48600,65400,123000,155000,1.394,1.394,FALSE,FALSE
+"princeton university","New Jersey","NJ","Private","4 Year",16290,49330,65620,49330,65620,"Northeastern",66500,131000,68900,1e+05,190000,261000,1.996,1.996,TRUE,FALSE
+"providence college","Rhode Island","RI","Private","4 Year",14700,50390,65090,50390,65090,"Northeastern",48000,88600,42800,62900,138000,194000,1.361,1.361,FALSE,FALSE
+"purdue university","Indiana","IN","Public","4 Year",10030,9992,20022,28794,38824,"Midwestern",51400,90500,49900,67400,121000,168000,2.331,4.52,TRUE,TRUE
+"quinnipiac university","Connecticut","CT","Private","4 Year",14540,47960,62500,47960,62500,"Northeastern",43000,76500,47900,57400,117000,155000,1.224,1.224,FALSE,FALSE
+"randolph-macon college","Virginia","VA","Private","4 Year",11860,41400,53260,41400,53260,"Southern",42600,83600,NA,54100,123000,NA,1.57,1.57,FALSE,FALSE
+"reed college","Oregon","OR","Private","4 Year",14210,56340,70550,56340,70550,"Western",40500,81100,NA,67400,101000,NA,1.15,1.15,FALSE,FALSE
+"regis university","Colorado","CO","Private","4 Year",11560,36810,48370,36810,48370,"Western",48300,73800,41000,55500,94800,117000,1.526,1.526,FALSE,FALSE
+"rice university","Texas","TX","Private","4 Year",14000,47350,61350,47350,61350,"Southern",64000,110000,55900,82100,141000,216000,1.793,1.793,TRUE,FALSE
+"rider university","New Jersey","NJ","Private","4 Year",14700,41310,56010,41310,56010,"Northeastern",43600,88900,47100,63100,127000,150000,1.587,1.587,FALSE,FALSE
+"roger williams university","Rhode Island","RI","Private","4 Year",15890,34522,50412,34522,50412,"Northeastern",42000,72300,39800,48500,102000,138000,1.434,1.434,FALSE,FALSE
+"rutgers university","New Jersey","NJ","Public","4 Year",12706,14974,27680,31282,43988,"Northeastern",50300,91800,48100,65100,128000,176000,2.087,3.316,TRUE,TRUE
+"sacred heart university","Connecticut","CT","Private","4 Year",15310,41420,56730,41420,56730,"Northeastern",46000,75300,39700,54800,105000,150000,1.327,1.327,FALSE,FALSE
+"saint leo university","Florida","FL","Private","4 Year",10570,22280,32850,22280,32850,"Southern",40900,57800,34400,41800,80600,113000,1.76,1.76,FALSE,FALSE
+"seattle university","Washington","WA","Private","4 Year",12288,44610,56898,44610,56898,"Western",48300,82800,50600,62400,110000,150000,1.455,1.455,FALSE,FALSE
+"seton hall university","New Jersey","NJ","Private","4 Year",15800,42470,58270,42470,58270,"Northeastern",48900,89200,55700,70600,133000,195000,1.531,1.531,FALSE,FALSE
+"siena college","New York","NY","Private","4 Year",15000,37575,52575,37575,52575,"Northeastern",45500,85200,38700,58400,129000,189000,1.621,1.621,FALSE,FALSE
+"skidmore college","New York","NY","Private","4 Year",14494,54420,68914,54420,68914,"Northeastern",41600,74600,NA,42800,147000,NA,1.083,1.083,FALSE,FALSE
+"smith college","Massachusetts","MA","Private","4 Year",17520,52404,69924,52404,69924,"Northeastern",44000,83900,45100,59800,129000,184000,1.2,1.2,FALSE,FALSE
+"southern illinois university carbondale","Illinois","IL","Public","4 Year",10622,14704,25326,14704,25326,"Midwestern",43000,72500,38300,51300,99300,139000,2.863,2.863,TRUE,TRUE
+"southern utah university","Utah","UT","Public","4 Year",7090,6769,13859,20585,27675,"Western",41900,56500,NA,39700,78400,NA,2.042,4.077,TRUE,TRUE
+"st. olaf college","Minnesota","MN","Private","4 Year",10850,47840,58690,47840,58690,"Midwestern",45300,86200,41300,61000,120000,185000,1.469,1.469,FALSE,FALSE
+"stanford university","California","CA","Private","4 Year",15763,51354,67117,51354,67117,"California",70400,129000,68400,93100,184000,257000,1.922,1.922,TRUE,FALSE
+"stevens institute of technology","New Jersey","NJ","Private","4 Year",15244,52202,67446,52202,67446,"Northeastern",60600,105000,68700,81900,138000,185000,1.557,1.557,FALSE,FALSE
+"suffolk university","Massachusetts","MA","Private","4 Year",17846,38566,56412,38566,56412,"Northeastern",42100,74000,48700,57800,95100,145000,1.312,1.312,FALSE,FALSE
+"swarthmore college","Pennsylvania","PA","Private","4 Year",15474,52588,68062,52588,68062,"Northeastern",49700,104000,NA,67200,167000,NA,1.528,1.528,FALSE,FALSE
+"syracuse university","New York","NY","Private","4 Year",15550,51853,67403,51853,67403,"Northeastern",45700,85900,46400,59400,119000,178000,1.274,1.274,FALSE,FALSE
+"tennessee technological university","Tennessee","TN","Public","4 Year",9736,9103,18839,25759,35495,"Southern",46200,80000,42100,62600,99500,121000,2.254,4.247,TRUE,TRUE
+"texas a&m university","Texas","TX","Public","4 Year",10436,10968,21404,36442,46878,"Southern",49700,96100,51100,71300,131000,171000,2.05,4.49,TRUE,TRUE
+"thomas aquinas college","California","CA","Private","4 Year",8400,25000,33400,25000,33400,"California",41500,67500,NA,44600,93100,NA,2.021,2.021,TRUE,FALSE
+"tulane university","Louisiana","LA","Private","4 Year",15190,54820,70010,54820,70010,"Southern",49100,95800,46500,64400,134000,185000,1.368,1.368,FALSE,FALSE
+"tusculum college","Tennessee","TN","Private","4 Year",9190,24860,34050,24860,34050,"Southern",36900,55500,36200,43000,87300,124000,1.63,1.63,FALSE,FALSE
+"union college","Nebraska","NE","Private","4 Year",7070,23780,30850,23780,30850,"Northeastern",47200,95800,48700,75200,135000,230000,3.105,3.105,TRUE,TRUE
+"union college","Kentucky","KY","Private","4 Year",7600,27140,34740,27140,34740,"Northeastern",47200,95800,48700,75200,135000,230000,2.758,2.758,TRUE,TRUE
+"union college","New York","NY","Private","4 Year",13563,55290,68853,55290,68853,"Northeastern",47200,95800,48700,75200,135000,230000,1.391,1.391,FALSE,FALSE
+"university of akron","Ohio","OH","Public","4 Year",12200,11463,23663,17750,29950,"Midwestern",41100,70300,40600,53300,95200,127000,2.347,2.971,TRUE,TRUE
+"university of arizona","Arizona","AZ","Public","4 Year",12550,12487,25037,36386,48936,"Western",47500,86100,44800,61700,117000,160000,1.759,3.439,FALSE,TRUE
+"university of arkansas","Arkansas","AR","Public","4 Year",11020,9130,20150,25168,36188,"Southern",44100,82800,43200,60700,113000,160000,2.288,4.109,TRUE,TRUE
+"university of chicago","Illinois","IL","Private","4 Year",16350,58230,74580,58230,74580,"Midwestern",53400,113000,62200,83300,174000,255000,1.515,1.515,FALSE,FALSE
+"university of delaware","Delaware","DE","Public","4 Year",12862,13680,26542,34310,47172,"Southern",45900,84500,44500,64000,119000,165000,1.791,3.184,TRUE,TRUE
+"university of idaho","Idaho","ID","Public","4 Year",8880,7864,16744,25500,34380,"Western",44900,82000,43000,56700,104000,142000,2.385,4.897,TRUE,TRUE
+"university of illinois at chicago","Illinois","IL","Public","4 Year",12074,13764,25838,26980,39054,"Midwestern",47500,81700,44700,58800,110000,146000,2.092,3.162,TRUE,TRUE
+"university of kansas","Kansas","KS","Public","4 Year",10350,11148,21498,27358,37708,"Midwestern",42400,81600,44800,57200,115000,156000,2.164,3.796,TRUE,TRUE
+"university of maine","Maine","ME","Public","4 Year",10418,11170,21588,30970,41388,"Northeastern",41200,72100,41700,55600,99300,141000,1.742,3.34,FALSE,TRUE
+"university of michigan","Michigan","MI","Public","4 Year",11534,15262,26796,49350,60884,"Midwestern",52700,93000,50900,69400,128000,182000,1.527,3.471,FALSE,TRUE
+"university of mississippi","Mississippi","MS","Public","4 Year",10696,8660,19356,24614,35310,"Southern",41400,79700,40400,53500,108000,186000,2.257,4.118,TRUE,TRUE
+"university of montana","Montana","MT","Public","4 Year",9544,7244,16788,24959,34503,"Western",37300,71900,37000,51500,96400,138000,2.084,4.283,TRUE,TRUE
+"university of new haven","Connecticut","CT","Private","4 Year",15900,39270,55170,39270,55170,"Northeastern",44400,82900,48500,66100,113000,157000,1.503,1.503,FALSE,FALSE
+"university of north dakota","North Dakota","ND","Public","4 Year",8974,8695,17669,20759,29733,"Midwestern",44000,80600,43400,56400,111000,157000,2.711,4.562,TRUE,TRUE
+"university of notre dame","Indiana","IN","Private","4 Year",15410,53391,68801,53391,68801,"Midwestern",56300,116000,66400,85100,163000,235000,1.686,1.686,FALSE,FALSE
+"university of oklahoma","Oklahoma","OK","Public","4 Year",10994,11763,22757,27144,38138,"Southern",44700,82900,41200,60300,114000,167000,2.174,3.643,TRUE,TRUE
+"university of oregon","Oregon","OR","Public","4 Year",12963,11898,24861,35478,48441,"Western",42200,78400,38100,56200,117000,186000,1.618,3.154,FALSE,TRUE
+"university of pennsylvania","Pennsylvania","PA","Private","4 Year",15616,55584,71200,55584,71200,"Northeastern",60900,120000,55900,79200,192000,282000,1.685,1.685,FALSE,FALSE
+"university of puget sound","Washington","WA","Private","4 Year",12540,49776,62316,49776,62316,"Western",46600,81500,48900,60100,104000,137000,1.308,1.308,FALSE,FALSE
+"university of richmond","Virginia","VA","Private","4 Year",12250,52610,64860,52610,64860,"Southern",48600,94600,44500,59400,151000,211000,1.459,1.459,FALSE,FALSE
+"university of southern maine","Maine","ME","Public","4 Year",9450,9520,18970,22780,32230,"Northeastern",39400,63600,40400,47900,85700,117000,1.973,3.353,TRUE,TRUE
+"university of toledo","Ohio","OH","Public","4 Year",11434,9795,21229,19133,30567,"Midwestern",43100,75900,40100,54100,1e+05,133000,2.483,3.575,TRUE,TRUE
+"university of tulsa","Oklahoma","OK","Private","4 Year",11116,41509,52625,41509,52625,"Southern",42400,88700,42300,60300,120000,197000,1.686,1.686,FALSE,FALSE
+"university of utah","Utah","UT","Public","4 Year",10262,9222,19484,29215,39477,"Western",45400,83200,43000,58400,116000,148000,2.108,4.27,TRUE,TRUE
+"ursinus college","Pennsylvania","PA","Private","4 Year",12750,52050,64800,52050,64800,"Northeastern",42100,80000,35600,54300,1e+05,160000,1.235,1.235,FALSE,FALSE
+"utah state university","Utah","UT","Public","4 Year",6400,7424,13824,21505,27905,"Western",43800,78700,41600,55400,101000,132000,2.82,5.693,TRUE,TRUE
+"vanderbilt university","Tennessee","TN","Private","4 Year",16234,49816,66050,49816,66050,"Southern",51200,104000,49900,68100,147000,222000,1.575,1.575,FALSE,FALSE
+"vassar college","New York","NY","Private","4 Year",13550,56960,70510,56960,70510,"Northeastern",46000,94600,NA,60600,123000,NA,1.342,1.342,FALSE,FALSE
+"villanova university","Pennsylvania","PA","Private","4 Year",14020,53308,67328,53308,67328,"Northeastern",55800,101000,56800,76200,156000,226000,1.5,1.5,FALSE,FALSE
+"washington and lee university","Virginia","VA","Private","4 Year",13925,52455,66380,52455,66380,"Southern",53600,104000,NA,82800,146000,NA,1.567,1.567,FALSE,FALSE
+"wayne state university","Michigan","MI","Public","4 Year",10427,13347,23774,28241,38668,"Midwestern",42800,76100,40100,56200,101000,139000,1.968,3.201,TRUE,TRUE
+"wellesley college","Massachusetts","MA","Private","4 Year",16468,53732,70200,53732,70200,"Northeastern",42800,83500,NA,58600,125000,NA,1.189,1.189,FALSE,FALSE
+"wentworth institute of technology","Massachusetts","MA","Private","4 Year",14190,33950,48140,33950,48140,"Northeastern",53000,96700,55200,74000,117000,153000,2.009,2.009,TRUE,FALSE
+"western carolina university","North Carolina","NC","Public","4 Year",9682,4220,13902,8220,17902,"Southern",36900,66600,39000,49500,94400,133000,3.72,4.791,TRUE,TRUE
+"western washington university","Washington","WA","Public","4 Year",11466,8132,19598,23544,35010,"Western",42700,75400,41300,56700,99200,119000,2.154,3.847,TRUE,TRUE
+"whitman college","Washington","WA","Private","4 Year",13174,51764,64938,51764,64938,"Western",43500,80100,NA,64800,111000,NA,1.233,1.233,FALSE,FALSE
+"widener university","Pennsylvania","PA","Private","4 Year",14446,45948,60394,45948,60394,"Northeastern",52900,83400,42600,61400,106000,138000,1.381,1.381,FALSE,FALSE
+"williams college","Massachusetts","MA","Private","4 Year",14500,55450,69950,55450,69950,"Northeastern",51700,102000,NA,76400,143000,NA,1.458,1.458,FALSE,FALSE
+"wittenberg university","Ohio","OH","Private","4 Year",10356,39500,49856,39500,49856,"Midwestern",39200,78200,NA,54100,131000,NA,1.569,1.569,FALSE,FALSE
+"yale university","Connecticut","CT","Private","4 Year",16000,53430,69430,53430,69430,"Northeastern",59100,126000,58000,80600,198000,326000,1.815,1.815,TRUE,FALSE
